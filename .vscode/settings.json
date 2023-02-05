@@ -27,5 +27,6 @@
         "tab.activeBorder": "#a8d5a8",
         "titleBar.border": "#85c585"
     },
-    "peacock.color": "#85c585"
+    "peacock.color": "#85c585",
+    "editor.scrollbar.horizontal": "hidden"
 }
