@@ -1,5 +1,9 @@
 <h1 Align="center" style="color: #E9D6AA; filter:drop-shadow(5px 5px 3px #664B0B6e)"><b>👋 Hello, I'm Mickael</b></h1>
 
+<div align=center>
+    <h2 style="color: #70C630; filter:drop-shadow(5px 5px 3px #70C6306e); text-decoration:none;">👨‍💻 <a href="https://github.com/MiKL5/home" style="color:#70C630;  text-decoration:none;">All projects</a></h2>
+</div>
+
 <h2><b>Connect with me</b></h2>
 
 <div Align="center">
@@ -33,9 +37,4 @@ Languages | Frameworks
 Versionning | RDBMS|API tests | Design | Organization
 :-:|:-:|:-:|:-:|:-:
 <a href="#" style="text-decoration:none"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="28" height="auto"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" title="PHP My Admin" alt="phpmyadmin" width="28" height="auto"/> <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" title="DBeaver" alt="Dbeaver" width=28 height=auto> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="28" height="auto"/></a> | <a href="#" style="text-decoration:none"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="figma" width="28" height="auto"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" title="Adobe XD" alt="xd" width="28" height="auto"/></a> | <a href="#" style="text-decoration:none"><img src="https://www.svgrepo.com/download/475648/evernote-color.svg" title="Evernote" alt="Evernote" width="28" height="auto"/> <img src="https://www.svgrepo.com/download/303635/trello-logo.svg" title="Trello" alt="Trello" width="28" height="auto"/> <img src="https://assets.xmind.net/www/assets/images/xmind2022/xmind2022-logo-c945ae44d8.svg" title="Xmind" alt="Xmind" width="28" height="auto"/> <img src="https://www.svgrepo.com/download/452076/notion.svg" title="Notion" alt="Notion" width="28" height="auto"/></a>
-</div>
-
-<div align=center>
-    <br>
-    <h2 style="color: #70C630; filter:drop-shadow(5px 5px 3px #70C6306e); text-decoration:none;">👨‍💻 <a href="https://github.com/MiKL5/home" style="color:#70C630;  text-decoration:none;">All projects</a></h2>
 </div>
