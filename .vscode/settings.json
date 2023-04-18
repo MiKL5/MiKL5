@@ -16,16 +16,7 @@
         "titleBar.activeBackground": "#85c585",
         "titleBar.activeForeground": "#15202b",
         "titleBar.inactiveBackground": "#85c58599",
-        "titleBar.inactiveForeground": "#15202b99",
-        "editorGroup.border": "#a8d5a8",
-        "panel.border": "#a8d5a8",
-        "sideBar.border": "#a8d5a8",
-        "statusBar.border": "#85c585",
-        "statusBar.debuggingBackground": "#c585c5",
-        "statusBar.debuggingBorder": "#c585c5",
-        "statusBar.debuggingForeground": "#15202b",
-        "tab.activeBorder": "#a8d5a8",
-        "titleBar.border": "#85c585"
+        "titleBar.inactiveForeground": "#15202b99"
     },
     "peacock.color": "#85c585",
     "editor.scrollbar.horizontal": "hidden"
