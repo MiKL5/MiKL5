@@ -1,9 +1,5 @@
 <h1 Align="center" style="color: #E9D6AA; filter:drop-shadow(5px 5px 3px #664B0B6e)"><b>👋 Hello, I'm Mickael</b></h1>
 
-<div align=center>
-    <h2 style="color: #70C630; filter:drop-shadow(5px 5px 3px #70C6306e); text-decoration:none;">👨‍💻 <a href="https://github.com/MiKL5/home" style="color:#70C630;  text-decoration:none;">All projects</a></h2>
-</div>
-
 <h2><b>Connect with me</b></h2>
 
 <div Align="center">
