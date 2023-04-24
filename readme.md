@@ -2,7 +2,7 @@
 
 <div display="inline-block" width="50%" vertical-align="top">
 
-<h2><b>Front-end</b></h1>
+<h3><b>Front-end</b></h1>
 <div Align="center">
 
 Languages | Libraries | Framework
@@ -10,7 +10,7 @@ Languages | Libraries | Framework
 <a href="#" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="28" height="28" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" alt="javascript" width="28" height="28"/></a> | <a href="#" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="28" height="auto"/> <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" title="React Native" alt="reactnative" width="28" height="auto"/></a> | <a href="#" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrop" alt="bootstrap" width="28" height="auto"/> </a>
 </div>  
 
-<h2><b>Back-end</b></h1>
+<h3><b>Back-end</b></h1>
 <div Align="center">
 
 Languages | Frameworks
@@ -19,7 +19,7 @@ Languages | Frameworks
 </div>  
 </div>
 
-<h2><b>Tools</b></h1>
+<h3><b>Tools</b></h1>
 <div Align="center">
 
 Versionning | RDBMS|API tests | Design | Organization
