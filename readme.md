@@ -1,5 +1,13 @@
 <h1 Align="center" style="color: #E9D6AA; filter:drop-shadow(5px 5px 3px #664B0B6e)"><b>👋 Hello, I'm Mickael</b></h1>
 
+<h2><b>Connect with me</b></h2>
+
+<div Align="center">
+    <a href="https://linkedin.com/in/mickaelg-a08b19153" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedIn style="margin-bottom: 5px; filter:drop-shadow(5px 5px 3px #1656C66e); " />
+    </a>  
+</div>  
+
 <div display="inline-block" width="50%" vertical-align="top">
 
 <h2><b>Front-end</b></h1>
@@ -7,7 +15,7 @@
 
 Languages | Libraries | Frameworks
 :-:|:-:|:-:
-<a href="#" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="28" height="28" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javaScript" width="28" height="28"/></a> <img src="https://github.com/MiKL5/Typescript/raw/main/Assets/images/Typescript_logo_2020.svg" title="TypeScript" alt="TypeScript" width="28" height="28"/></a> | <a href="#" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="28" height="auto"/> <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" title="React Native" alt="reactnative" width="28" height="auto"/></a> | <a href="#" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrop" alt="bootstrap" width="28" height="auto"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="tailwind" width="28" height="auto"/></a>
+<a href="#" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="28" height="28" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javaScript" width="28" height="28"/><img src="https://github.com/MiKL5/Typescript/raw/main/Assets/images/Typescript_logo_2020.svg" title="TypeScript" alt="TypeScript" width="28" height="28"/></a> | <a href="#" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="28" height="auto"/> <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" title="React Native" alt="reactnative" width="28" height="auto"/></a> | <a href="#" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrop" alt="bootstrap" width="28" height="auto"/> </a>
 </div>  
 
 <h2><b>Back-end</b></h1>
