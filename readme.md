@@ -1,13 +1,5 @@
 <h1 Align="center" style="color: #E9D6AA; filter:drop-shadow(5px 5px 3px #664B0B6e)"><b>👋 Hello, I'm Mickael</b></h1>
 
-<h2><b>Connect with me</b></h2>
-
-<div Align="center">
-    <a href="https://linkedin.com/in/mickaelg-a08b19153" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedIn style="margin-bottom: 5px; filter:drop-shadow(5px 5px 3px #1656C66e); " />
-    </a>  
-</div>  
-
 <div display="inline-block" width="50%" vertical-align="top">
 
 <h2><b>Front-end</b></h1>
