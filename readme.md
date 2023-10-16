@@ -1,7 +1,5 @@
 <h1 Align="center" style="color: #E9D6AA; filter:drop-shadow(5px 5px 3px #664B0B6e)"><b>👋 Hello, I'm Mickael</b></h1>
 
-<div display="inline-block" width="50%" vertical-align="top">
-
 <h2><b>Front-end</b></h1>
 <div Align="center">
 
@@ -15,9 +13,8 @@ Languages | Libraries | Frameworks
 
 Languages | Frameworks
 :-:|:-:
-<a href="#" style="text-decoration:none"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" title="MariaDB" alt="mariadb" width="28" height="auto" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="28" height="auto"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="php" width="28" height="auto"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="28" height="auto"/></a> | <a href="#" style="text-decoration:none"><img src="https://symfony.com/logos/symfony_black_03.svg" title="Symfony" alt="symfony" width="28" height="auto"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="28" height="auto"/><a href="#">
+<a href="#" style="text-decoration:none"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" title="MariaDB" alt="mariadb" width="28" height="auto" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="28" height="auto"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="php" width="28" height="auto"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="28" height="auto"/></a> | <a href="#" style="text-decoration:none"><img src="https://symfony.com/logos/symfony_black_03.svg" title="Symfony" alt="symfony" width="28" height="auto"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="28" height="auto"/>
 </div>  
-</div>
 
 <h2><b>Tools</b></h1>
 <div Align="center">
