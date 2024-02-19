@@ -1,7 +1,7 @@
 <h1 Align="center" style="color: #E9D6AA; filter:drop-shadow(5px 5px 3px #664B0B6e)"><b>👋 Hello, I'm Mickael</b></h1>
 
 <h3 align="center"><i>💭 Ask me about AI!</i></h1>
-<div align="center"><a href="https://github.com/MiKL5/artificialIntelligence"><img src="assets/109d8363-937e-4a84-89e8-9591afde381e.png" height="300"></a>
+<div align="center"><a href="https://github.com/MiKL5/artificialIntelligence"><img src="assets/mikl5.png" height="300" alt="Psychedelic lion"></a>
 
 <h2><b>Front-end</b></h1>
 <div Align="center">
