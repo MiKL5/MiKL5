@@ -16,8 +16,16 @@ Languages | Libraries | Frameworks
 
 Languages | Frameworks
 :-:|:-:
-<a href="#"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="32" height="auto"></a>                         <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="auto"></a> <a href="#"> <img src="https://media.licdn.com/dms/image/D4D12AQGldY4oQ_AZvA/article-cover_image-shrink_423_752/0/1655217903534?e=1720051200&v=beta&t=DNhWYhY2Uv85_jhYw3DleG4NlhtY4l-sBbG_Q2JcQRU" alt="t-sql" width="32" height="auto">                                                                                                                                    <a href="https://github.com/MiKL5/afpaDev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="32" height="auto"></a>                                                                                                                        <a href="https://github.com/MiKL5/Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="auto"  pointer-events="none"></a> | <a href="https://github.com/MiKL5/afpaDevSymfony"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="32" height="auto"></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="32" height="auto"></a>                         <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="auto"></a> <a href="#"> <img src="https://media.licdn.com/dms/image/D4D12AQGldY4oQ_AZvA/article-cover_image-shrink_423_752/0/1655217903534?e=1720051200&v=beta&t=DNhWYhY2Uv85_jhYw3DleG4NlhtY4l-sBbG_Q2JcQRU" alt="t-sql" width="32" height="auto">                                                                                                                                    <a href="https://github.com/MiKL5/afpaDev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="32" height="auto"></a>                                                                                                                        | <a href="https://github.com/MiKL5/afpaDevSymfony"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="32" height="auto"></a>
 </div>  
+
+<h2><b>Applications</b></h1>
+<div Align="center">
+
+| Applications |
+:-:
+<a href="https://github.com/MiKL5/Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="auto"  pointer-events="none"></a>  <a href="https://github.com/MiKL5/devAppli"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Langage Swift" align="right" height="32px"></a>
+</div>
 
 <!-- <h2><b>Data analysis</b></h2> -->
 
