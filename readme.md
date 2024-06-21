@@ -22,9 +22,9 @@ Languages | Frameworks
 <h2><b>Applications</b></h1>
 <div Align="center">
 
-| Applications |
+| Langages |
 :-:
-<a href="https://github.com/MiKL5/Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="auto"  pointer-events="none"></a>  <a href="https://github.com/MiKL5/devAppli"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Langage Swift" align="right" height="32px"></a>
+<a href="https://github.com/MiKL5/Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="auto"  pointer-events="none"></a>  <a href="https://github.com/MiKL5/devAppli"><img src="assets/swift.png" alt="Langage Swift" align="right" height="32px"></a>
 </div>
 
 <!-- <h2><b>Data analysis</b></h2> -->
