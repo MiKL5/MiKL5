@@ -1,5 +1,15 @@
-<h2 Align="center"><b>👋 Hello, I'm Mickael</b><br><br>
-🚀 I'm seeking for a company for a Data/IA work-study</h2>
+<h2 Align="center"><b><svg xmlns="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/"
+        viewBox="0 0 72 72"
+        width="200" height="200">
+        <!-- Import du path de Twemoji -->
+        <g id="hand" transform="rotate(-10 36 36)">
+        <path fill="#FFD983" d="..." />
+        <!-- (copie ici le contenu du SVG téléchargé) -->
+        </g>
+        <!-- Animation de rotation de la main -->
+        <animateTransform xlink:href="#hand"attributeName="transform"type="rotate"values="-10 36 36;10 36 36;-10 36 36"dur="2s"repeatCount="indefinite"/></svg>
+Hello, I'm Mickael</b><br><br>
+🚀 I'm seeking for a company for a Data/IA work-study<br></h2>
 <!-- <div align="center"><a href="https://github.com/MiKL5/artificialIntelligence"><img src="assets/hedgehog.jpg" height="300" alt="This is an ai-art"></a> -->
 <div Align="center"><h3><b>Applications</b></h1>
 
