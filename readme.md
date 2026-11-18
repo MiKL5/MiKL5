@@ -5,8 +5,8 @@
 
 **Projet** | **Description** | **Stack technique**
 :-:|---|--:
-**[Linceul-Audit](https://github.com/MiKL5/linceul-audit)**<br><sup><kbd><i>En conception</i></kbd></sup> | Détection de fraude financière par corrélation de flux et de données non structurées | `Python`, `PostgreSQL`<br><sub>*Apprentissage de* `Java`, `ONNX`, `pgvector`</sub>
-**[Audit RGPD d’une IA](https://github.com/MiKL5/gdpr-ai-compliance-audit-housing-ml)** | Application Streamlit de prédiction 100 % conforme aux normes européennes | `Python`, `Streamlit`, `Random Forest`, `Scikit-learn`
+**[Linceul-Audit](https://github.com/MiKL5/linceul-audit)**<br><sub><kbd><i>En conception</i></kbd></sub> | Détection de fraude financière par corrélation de flux et de données non structurées | `Python`, `PostgreSQL`<br><sub>*Apprentissage de* `Java`, `ONNX`, `pgvector`</sub>
+**[Audit RGPD d’une IA](https://github.com/MiKL5/gdpr-ai-compliance-audit-housing-ml)** | Application de prédiction conforme aux normes européennes | `Python`, `Streamlit`, `Random Forest`, `Scikit-learn`
 **[Books to mongo](https://github.com/MiKL5/web-scraping/blob/main/projects/b2mongo)** | Pipeline ETL de web scraping bibliographique | `Python`, `Scrapy`, `MongoDB`
 **[Réduction de dimensionnalité](https://github.com/MiKL5/machine-learning-projects/blob/main/projects/dimensionReductionUsingLDA-SVD)** | Comparatif LDA et SVD tronquée pour réduire la dimensionnalité | `Python`, `Scikit-learn`, `Matplotlib`, `Jupyter Notebook`
 
@@ -31,8 +31,8 @@ SGBD | BI et environnements de données | Outils
 
 **Project** | **Description** | **Tech Stack**
 :-:|---|--:
-**[Linceul-Audit](https://github.com/MiKL5/linceul-audit)** <br><sup><kbd><i>In design</i></kbd></sup> | Financial fraud detection by correlating flows and unstructured data | `Python`, `PostgreSQL`<br><sub>*learning:* `Java`, `ONNX`, `pgvector`</sub>
-**[GDPR Audit of an AI](https://github.com/MiKL5/gdpr-ai-compliance-audit-housing-ml)** | Streamlit prediction app that is 100% compliant with European standards | `Python`, `Streamlit`, `Random Forest`, `Scikit-learn`
+**[Linceul-Audit](https://github.com/MiKL5/linceul-audit)** <br><sub><kbd><i>In progress</i></kbd></sub> | Financial fraud detection by correlating flows and unstructured data | `Python`, `PostgreSQL`<br><sub>*learning:* `Java`, `ONNX`, `pgvector`</sub>
+**[GDPR Audit of an AI](https://github.com/MiKL5/gdpr-ai-compliance-audit-housing-ml)** | Streamlit prediction app that is compliant with European standards | `Python`, `Streamlit`, `Random Forest`, `Scikit-learn`
 **[Books to mongo](https://github.com/MiKL5/web-scraping/blob/main/projects/b2mongo)** | ETL pipeline for bibliographic web scraping | `Python`, `Scrapy`, `MongoDB`
 **[Dimensionality Reduction](https://github.com/MiKL5/machine-learning-projects/blob/main/projects/dimensionReductionUsingLDA-SVD)** | Comparison of LDA and truncated SVD to reduce dimensionality | `Python`, `Scikit-learn`, `Matplotlib`, `Jupyter Notebook`
 
